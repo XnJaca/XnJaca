@@ -60,6 +60,6 @@
 ### 📊 Mis estadisticas :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=XnJaca&theme=radical&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=XnJaca&show_icons=true&theme=radical)
+![XnJaca's GitHub stats](https://github-readme-stats.vercel.app/api?username=xnjaca&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XnJaca&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
