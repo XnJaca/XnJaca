@@ -20,27 +20,25 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg  " title="Git" **alt="Git" width="40" height="40"/>
-    
-    </div>
 </div>
 
 ---
 
-### 👨‍💻 About Me :
+### 👨‍💻 Sobre mí :
 
-- 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs)
+- 📝 Me encanta programar y tomar cafe.
 
-- 💬 Ask me about **PHP, Laravel, Python, Javascript**
+- 💬 Preguntame sobre **Node.js, React.js, Dart o Flutter.**
 
-- 📫 How to reach me **carlos.develops@gmail.com**
+- 📫 Como contactarme **xnjaca@gmail.com**
 
-- 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
+- 🌱 Actualmente estoy aprendiendo **React.js, Web3 & Solidity**
 
-- 🌐 Website [youdevs.com](youdevs.com)
+- 🌐 Website [xnjaca.com](xnjaca.com)
 
 
 <div align="left">
-    <h3>🔨 Languages and Tools:</h3>
+    <h3>🔨 Lenguajes y Herramientas:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -59,7 +57,7 @@
 
 ---
 
-### 📊 My Stats :
+### 📊 Mis estadisticas :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=XnJaca&theme=onedark)](https://git.io/streak-stats)
 
