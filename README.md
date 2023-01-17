@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm XnJaca</h1>
+    <h1 align="center">Hola 👋, soy Jaca</h1>
     <h3 align="center">Un apasionado desarrollador web & mobile de Costa Rica. Me encanta programar y crear soluciones innovadoras. </h3>
 </div>
 
