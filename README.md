@@ -39,7 +39,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="www.linkedin.com/in/xnjaca" target="_blank"><img align="center" src="https://img.shields.io/badge/Jonathan Cruz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:xnjaca@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/xnjaca@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/XnJaca" target="blank"><img align="center" src="https://img.shields.io/badge/xnjaca-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="[www.linkedin.com/in/xnjaca](https://www.linkedin.com/in/xnjaca/)" target="blank"><img align="center" src="https://img.shields.io/badge/Jonathan Cruz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:xnjaca@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/xnjaca@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/XnJaca" target="blank"><img align="center" src="https://img.shields.io/badge/xnjaca-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
