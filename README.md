@@ -32,14 +32,8 @@ Building **ACDEMIC**, a SaaS platform for educators — focused on clean, scalab
 
 ---
 
-#### 📊 GitHub
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=XnJaca&show_icons=true&hide_border=true&theme=transparent&hide_title=true)](https://github.com/XnJaca)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XnJaca&layout=compact&hide_border=true&theme=transparent)](https://github.com/XnJaca)
-
----
-
 #### 📫 Get in touch
 
+[![Website](https://img.shields.io/badge/Website-xnjaca.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://xnjaca.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xnjaca/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:xnjaca@gmail.com)
